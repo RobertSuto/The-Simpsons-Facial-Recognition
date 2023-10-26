@@ -12,3 +12,6 @@ To run the project, follow these steps:
    This will generate positive and negative examples for cartoon character classification, train a classifier, and evaluate its performance on test images. The results will be saved in the "evaluare/fisiere-solutie/Suto_Robert_311/task2" directory.
 
    The method used for cartoon character classification is also based on the code provided in the course labs and assignments. The approach involves generating positive and negative examples from the training images, extracting features using the Histogram of Oriented Gradients (HOG) descriptor, using a sliding window and training a classifier using the Support Vector Machine (SVM)
+
+
+# It is important to know that the code doesn't contain the datasets. For the full dataset, feel free to contact me.
