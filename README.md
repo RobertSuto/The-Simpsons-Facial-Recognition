@@ -5,10 +5,6 @@ This is a project for the Computer Vision course at the Faculty of Mathematics a
 1. Face detection: given a set of training images with faces and non-faces, train a classifier to detect faces in test images.
 2. Cartoon character classification: given a set of training images with four cartoon characters, train a classifier to recognize the characters in test images.
 
-## Requirements
-
-The project requires the following libraries:
-
 ## Usage
 
 To run the project, follow these steps:
